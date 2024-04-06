@@ -81,19 +81,31 @@ Nuestra startup, denominada "DeltaTech", se centra en proporcionar soluciones in
 
 Nuestro producto “Diligence Tech” utiliza algoritmos avanzados para agilizar el análisis de información financiera de la empresa a potencialmente adquirir. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura (cifrado de datos de extremo a extremo), lo que mejora significativamente la eficiencia del proceso de debida diligencia. Nuestro objetivo es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que permita a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
 
-!["DeltaTech Logo"](src/img/Logo/DiligenceTechLogo.png "DiligenceTech Logo")
+!["DiligenceTech Logo"](src/img/Logo/DiligenceTechLogo.png "DiligenceTech Logo")
 
-### Mision
+**Misión**
 
+::: important
 Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
+:::
 
-### Visión
+**Visión**
 
+::: important
 Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
+:::
 
 ### Perfiles de integrantes del equipo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![](src/img/Integrantes/Abel.svg) 
+
+![](src/img/Integrantes/Arturo.svg) 
+
+![](src/img/Integrantes/Julio.svg) 
+
+![](src/img/Integrantes/Luis.svg) 
+
+![](src/img/Integrantes/Oscar.svg) 
 
 ## *Solution Profile*
 
@@ -117,18 +129,18 @@ Nuestro contexto demanda una forma efectiva en la que:
 
 **Business Assumptions:**
 
-1) Creo que mis clientes necesitan una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de due diligence. 
-2) Estas necesidades se pueden resolver con nuestra plataforma inteligente que automatice el análisis financiero y que ofrezca acceso rápido y seguro a información relevante de las empresas objetivo.
-3) Mis clientes iniciales son inversores y contadores financieros que trabajan en sell-side.
-4) El valor #1 que un cliente quiere de mi servicio es una manera eficiente y precisa de realizar sus transacciones durante el proceso de due diligence. 
-5) El cliente también puede obtener estos beneficios adicionales como una mayor confianza en el proceso de due diligence, una mayor seguridad de los datos financieros y una experiencia de usuario mejorada.
-6) Voy a adquirir la mayoría de mis clientes a través de campañas de marketing dirigidas a empresas de capital privado, fondos de inversión y otros actores clave en el mercado de transacciones
-7) Haré dinero a través de la venta de suscripciones a nuestra plataforma "Diligence Tech", ofreciendo diferentes niveles de acceso según las necesidades del cliente.
-8) Mi competencia principal en el mercado serán otras plataformas de due diligence en línea, así como servicios tradicionales de consultoría que ofrecen análisis de datos financieros.
-9) Los venceremos debido a nuestra capacidad para ofrecer una solución tecnológica más rápida, precisa y fácil de usar que nuestras competidoras, así como nuestro enfoque en la seguridad de los datos y la experiencia del usuario..
-10) El mayor riesgo del producto es que la tecnología pueda no funcionar como se espera, lo que podría resultar en errores en los datos o brechas de seguridad.
-11) Resolveremos esto a través de la implementación de rigurosas pruebas de calidad y seguridad, así como la rápida corrección de errores a medida que surjan.
-12) ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione? 
+1. Creo que mis clientes necesitan una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de due diligence. 
+2. Estas necesidades se pueden resolver con nuestra plataforma inteligente que automatice el análisis financiero y que ofrezca acceso rápido y seguro a información relevante de las empresas objetivo.
+3. Mis clientes iniciales son inversores y contadores financieros que trabajan en sell-side.
+4. El valor #1 que un cliente quiere de mi servicio es una manera eficiente y precisa de realizar sus transacciones durante el proceso de due diligence. 
+5. El cliente también puede obtener estos beneficios adicionales como una mayor confianza en el proceso de due diligence, una mayor seguridad de los datos financieros y una experiencia de usuario mejorada.
+6. Voy a adquirir la mayoría de mis clientes a través de campañas de marketing dirigidas a empresas de capital privado, fondos de inversión y otros actores clave en el mercado de transacciones
+7. Haré dinero a través de la venta de suscripciones a nuestra plataforma "Diligence Tech", ofreciendo diferentes niveles de acceso según las necesidades del cliente.
+8. Mi competencia principal en el mercado serán otras plataformas de due diligence en línea, así como servicios tradicionales de consultoría que ofrecen análisis de datos financieros.
+9. Los venceremos debido a nuestra capacidad para ofrecer una solución tecnológica más rápida, precisa y fácil de usar que nuestras competidoras, así como nuestro enfoque en la seguridad de los datos y la experiencia del usuario..
+10. El mayor riesgo del producto es que la tecnología pueda no funcionar como se espera, lo que podría resultar en errores en los datos o brechas de seguridad.
+11. Resolveremos esto a través de la implementación de rigurosas pruebas de calidad y seguridad, así como la rápida corrección de errores a medida que surjan.
+12. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione? 
 Otras suposiciones que tenemos son si:
 
     - Existe una demanda significativa.
