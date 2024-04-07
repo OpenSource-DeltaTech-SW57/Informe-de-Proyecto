@@ -29,7 +29,7 @@ header-includes:
 - |
   ```{=latex} 
   \usepackage{awesomebox}
-
+  \usepackage{fontawesome5}
   \usepackage{tcolorbox}
  
   \newtcolorbox{info-box}{colback=cyan!5!white,arc=0pt,outer arc=0pt,colframe=cyan!60!black}
@@ -73,49 +73,107 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## *Startup Profile*
 
-Nuestra startup, denominada "DeltaTech", se centra en proporcionar soluciones innovadoras para el proceso de due diligence en línea. Nos especializamos en la automatización de diversos procesos, incluido el análisis de datos financieros de empresas, como sus estados de cuenta, entre otras funciones clave. Nuestras plataformas tecnológicas buscan ofrecer una manera eficiente y precisa de realizar una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas.
-
-!["DeltaTech Logo"](src/img/Logo/DeltaTechLogo.png "DeltaTech Logo")
-
 ### Descripción de la Startup 
 
-Nuestro producto “Diligence Tech” utiliza algoritmos avanzados para agilizar el análisis de información financiera de la empresa a potencialmente adquirir. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura (cifrado de datos de extremo a extremo), lo que mejora significativamente la eficiencia del proceso de debida diligencia. Nuestro objetivo es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que permita a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
+**DeltaTech: Automatizando la** ***Due Diligence*** **en Línea**
 
-!["DiligenceTech Logo"](src/img/Logo/DiligenceTechLogo.png "DiligenceTech Logo")
+DeltaTech es una startup centrada en ofrecer soluciones innovadoras para el proceso de due diligence en línea. Nos especializamos en la automatización de una variedad de procesos, desde el análisis de datos financieros de empresas hasta la revisión de sus estados de cuenta, entre otras funciones críticas.
+Nuestras plataformas tecnológicas están diseñadas para proporcionar una manera eficiente y precisa de llevar a cabo una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas. En DeltaTech, nos comprometemos a simplificar y agilizar el proceso de evaluación, permitiendo a nuestros clientes tomar decisiones informadas con confianza.
+Cada solución que desarrollamos está impulsada por la búsqueda constante de la excelencia en la eficiencia operativa y la precisión en el análisis de datos. En DeltaTech, estamos transformando la forma en que se aborda la due diligence en línea, llevando la automatización al centro de las transacciones comerciales del siglo XXI.
+
+![DeltaTech Logo](src/img/Logo/DeltaTechLogo.png "DeltaTech Logo")
 
 **Misión**
 
-::: important
-Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
-:::
+* Nuestra misión en DeltaTech es proporcionar soluciones innovadoras y eficientes para el proceso de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas. Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que impulsen el éxito en sus operaciones.
 
 **Visión**
 
-::: important
-Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
-:::
+* Nuestra visión en DeltaTech es transformar la forma en que se realiza la debida diligencia, siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para nuestros clientes en todo momento.
 
 ### Perfiles de integrantes del equipo
 
-![](src/img/Integrantes/Abel.svg) 
+Nuestro equipo está conformado por individuos apasionados y comprometidos, cada uno aportando sus habilidades únicas para lograr nuestros objetivos de manera efectiva y colaborativa. Aquí se muestra a nuestros miebros clave:
 
-![](src/img/Integrantes/Arturo.svg) 
+![](src/img/Integrantes/Abel.png) 
 
-![](src/img/Integrantes/Julio.svg) 
+![](src/img/Integrantes/Arturo.png) 
 
-![](src/img/Integrantes/Luis.svg) 
+![](src/img/Integrantes/Julio.png) 
 
-![](src/img/Integrantes/Oscar.svg) 
+![](src/img/Integrantes/Luis.png) 
+
+![](src/img/Integrantes/Oscar.png) 
 
 ## *Solution Profile*
 
+En el cambiante mundo empresarial actual, la debida diligencia financiera se ha convertido en un pilar fundamental para asegurar transacciones comerciales seguras y exitosas. Sin embargo, el proceso tradicional de recolección y análisis de datos financieros de empresas puede ser lento, tedioso y propenso a errores. Esta realidad ha generado una necesidad urgente de encontrar soluciones innovadoras que permitan a los inversores realizar este crucial proceso de manera más eficiente y efectiva.
+En este contexto, surge una nueva era de la debida diligencia financiera, donde la tecnología y la inteligencia se unen para ofrecer soluciones ágiles y precisas. La búsqueda de métodos más inteligentes para acceder y analizar datos financieros se ha convertido en una prioridad para los profesionales que buscan tomar decisiones informadas y estratégicas en sus inversiones.
+
+![si](src/img/cap1/solutionp.png "hola") 
+
 ### Antecedentes y problemática
 
-El proceso tradicional de due diligence se caracteriza por ser laborioso, costoso y propenso a errores. Los inversores y profesionales financieros se ven obligados a revisar una gran cantidad de documentos financieros, legales y operativos en un tiempo limitado, lo que puede resultar en la contratación de servicios adicionales y gastos innecesarios. Además, la falta de acceso rápido y la preocupación por mantener la información sensible de la empresa segura pueden dificultar aún más la toma de decisiones.
-En este contexto, los propietarios de empresas se enfrentan al desafío de compartir información confidencial con los inversores potenciales sin garantía de que la transacción se lleve a cabo. Existe el riesgo de que los inversores utilicen los datos sensibles con otros fines, lo que puede generar incertidumbre y desconfianza en el proceso de negociación.
-La necesidad de una solución eficiente y segura para realizar una debida diligencia exhaustiva es evidente. Es crucial contar con herramientas tecnológicas avanzadas que permitan a los usuarios acceder de manera rápida y segura a la información clave, minimizando los riesgos y maximizando las oportunidades de inversión. Nuestra solución surge para abordar estos desafíos, ofreciendo una plataforma integral que automatiza y simplifica el proceso de análisis de datos financieros, proporcionando acceso seguro y eficiente a la información sensible de la empresa durante todo el proceso de Due Diligence.
+\begin{awesomeblock}[blue]{2pt}{\faQuestionCircle}{blue}
+***What***
+
+* El proceso tradicional de due diligence se caracteriza por ser laborioso, costoso y propenso a errores.
+* Los inversores y profesionales financieros revisan una gran cantidad de documentos financieros, legales y operativos en un tiempo limitado.
+* Esto puede resultar en la contratación de servicios adicionales y gastos innecesarios.
+\end{awesomeblock}
+
+\begin{awesomeblock}[blue]{2pt}{\faUserCircle}{blue}
+***Who***
+
+* Inversores y profesionales financieros se ven afectados por la complejidad y la carga de trabajo del proceso tradicional de due diligence.
+* Propietarios de empresas enfrentan el desafío de compartir información confidencial con inversores potenciales.
+\end{awesomeblock}
+
+\begin{awesomeblock}[blue]{2pt}{\faSearchLocation}{blue}
+***Where***
+
+Esta problemática es común en transacciones comerciales y de inversión, donde la debida diligencia es crucial.
+\end{awesomeblock}
+
+\begin{awesomeblock}[blue]{2pt}{\faCalendar*}{blue}
+***When***
+
+La problemática surge en cada proceso de adquisición o inversión, donde la toma de decisiones debe realizarse en un tiempo limitado.
+\end{awesomeblock}
+
+\begin{awesomeblock}[blue]{2pt}{\faRocketchat}{blue}
+***Why***
+
+* La falta de acceso rápido y la preocupación por la seguridad de la información sensible de la empresa dificultan la toma de decisiones.
+* Existe el riesgo de que los inversores utilicen los datos sensibles con otros fines, lo que genera incertidumbre y desconfianza.
+\end{awesomeblock}
+
+\begin{awesomeblock}[pink]{2pt}{\faMedapps}{pink}
+***How***
+
+* Para abordar estos desafíos, nuestra solución se basa en el desarrollo de una *web application*.
+* Implementaremos algoritmos avanzados para agilizar el proceso de análisis de datos financieros.
+* Diseñaremos una interfaz intuitiva que permita a los usuarios acceder y revisar información de manera rápida y segura.
+* Incorporaremos un sistema de cifrado de datos de extremo a extremo para garantizar la seguridad y confidencialidad de la información.
+* Realizaremos pruebas exhaustivas y ajustes continuos para asegurar el funcionamiento óptimo de la plataforma en todo momento.
+\end{awesomeblock}
+
+\begin{awesomeblock}[pink]{2pt}{\faMoneyBillWave}{pink}
+***How Much***
+
+* Los costos asociados con la implementación de nuestra solución de Diligence Tech dependerán del tamaño y las necesidades específicas de cada empresa.
+* Ofreceremos planes de suscripción flexibles para adaptarse a diferentes presupuestos y volúmenes de trabajo.
+* Los costos se basarán en un modelo de suscripción mensual o anual, con opciones de escalabilidad según las demandas del usuario.
+* Adicionalmente, ofreceremos servicios de capacitación y soporte técnico para garantizar una adopción exitosa y continua de la plataforma.
+\end{awesomeblock}
 
 ### *Lean UX Process*
+
+Diligence Tech es nuestro producto insignia que utiliza algoritmos avanzados para agilizar el análisis de información financiera de empresas potencialmente adquiribles. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura, gracias al cifrado de datos de extremo a extremo.
+El objetivo de Diligence Tech es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que mejora significativamente la eficiencia del proceso. En un mundo donde la velocidad y la precisión son críticas, nuestra plataforma permite a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
+Al incorporar la tecnología más avanzada, nos esforzamos por brindar a nuestros usuarios la capacidad de realizar análisis detallados y exhaustivos en un tiempo récord. En Diligence Tech, estamos construyendo un camino hacia una debida diligencia más ágil, segura y confiable, donde cada interacción con los datos financieros sea una experiencia sin complicaciones y productiva.
+
+![DiligenceTech Logo](src/img/Logo/DiligenceTechLogo.png "DiligenceTech Logo")
 
 #### *Lean UX Problem Statements*
 
