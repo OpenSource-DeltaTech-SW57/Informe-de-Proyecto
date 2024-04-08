@@ -100,7 +100,9 @@ DeltaTech es una startup centrada en ofrecer soluciones innovadoras para el proc
 Nuestras plataformas tecnológicas están diseñadas para proporcionar una manera eficiente y precisa de llevar a cabo una debida diligencia exhaustiva durante transacciones comerciales, como la venta de empresas. En DeltaTech, nos comprometemos a simplificar y agilizar el proceso de evaluación, permitiendo a nuestros clientes tomar decisiones informadas con confianza.
 Cada solución que desarrollamos está impulsada por la búsqueda constante de la excelencia en la eficiencia operativa y la precisión en el análisis de datos. En DeltaTech, estamos transformando la forma en que se aborda la due diligence en línea, llevando la automatización al centro de las transacciones comerciales del siglo XXI.
 
-![DeltaTech Logo](src/img/Logo/DeltaTechLogo.png "DeltaTech Logo")
+![DeltaTech Logo](src/img/cap1/deltatech-banner.png "DeltaTech Logo")
+
+\newpage
 
 **Misión**
 
@@ -408,6 +410,8 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 \newpage
 
 #### *Lean UX Canvas*
+
+![Artefacto creado en Figma ([URL](https://www.figma.com/file/jX7TR5fsEkgbQVH44vAmDb/Lean-UX-Canvas-2.0?type=design&node-id=0%3A1&mode=design&t=uRI0WHIdDhIsWi2g-1))](src/img/cap1/Lean-UX-Canvas.png) 
 
 ## Segmentos objetivo
 
