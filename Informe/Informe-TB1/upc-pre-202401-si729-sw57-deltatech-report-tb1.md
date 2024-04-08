@@ -34,11 +34,30 @@ header-includes:
  
   \newtcolorbox{info-box}{colback=cyan!5!white,arc=0pt,outer arc=0pt,colframe=cyan!60!black}
   \newtcolorbox{error-box}{colback=red!5!white,arc=0pt,outer arc=0pt,colframe=red!75!black}
+  \newtcolorbox{norm-box}{colback=gray!5!white,arc=0pt,outer arc=0pt,colframe=gray!60!black}
+  \newtcolorbox{warn-box}{colback=orange!5!white,arc=0pt,outer arc=0pt,colframe=orange!80!black}
+  \newtcolorbox{attn-box}{colback=green!5!white,arc=0pt,outer arc=0pt,colframe=green!75!black}
+  \newtcolorbox{code-box}{colback=pink!5!white,arc=0pt,outer arc=0pt,colframe=pink!80!black}
+  \newtcolorbox{learn-box}{colback=blue!5!white,arc=0pt,outer arc=0pt,colframe=blue!40!black,title=\textbf{Objectives:}}
+  \newtcolorbox{scenario-box}{colback=orange!5!white,arc=0pt,outer arc=0pt,colframe=orange!80!black,title=\textbf{Scenario:}}
+  \newtcolorbox{outline-box}{colback=cyan!5!white,arc=0pt,outer arc=0pt,colframe=cyan!60!black,title=\textbf{Outline:}}
+  \newtcolorbox{prereqs-box}{colback=red!5!white,arc=0pt,outer arc=0pt,colframe=red!60!black,title=\textbf{Prerequisites:}}
+  \newtcolorbox{labtime-box}{colback=yellow!5!white,arc=0pt,outer arc=0pt,colframe=yellow!60!black,title=\textbf{Lab:}}
+
   ```
 pandoc-latex-environment:
   tcolorbox: [box]
   info-box: [info]
   error-box: [error]
+  norm-box: [norm]
+  warn-box: [warn]
+  attn-box: [attn]
+  code-box: [code]
+  learn-box: [learn]
+  scenario-box: [scenario]
+  outline-box: [outline]
+  prereqs-box: [prereqs]
+  labtime-box: [labtime]
   noteblock: [note]
   tipblock: [tip]
   warningblock: [warning]
@@ -110,45 +129,45 @@ Nuestro equipo está conformado por individuos apasionados y comprometidos, cada
 En el cambiante mundo empresarial actual, la debida diligencia financiera se ha convertido en un pilar fundamental para asegurar transacciones comerciales seguras y exitosas. Sin embargo, el proceso tradicional de recolección y análisis de datos financieros de empresas puede ser lento, tedioso y propenso a errores. Esta realidad ha generado una necesidad urgente de encontrar soluciones innovadoras que permitan a los inversores realizar este crucial proceso de manera más eficiente y efectiva.
 En este contexto, surge una nueva era de la debida diligencia financiera, donde la tecnología y la inteligencia se unen para ofrecer soluciones ágiles y precisas. La búsqueda de métodos más inteligentes para acceder y analizar datos financieros se ha convertido en una prioridad para los profesionales que buscan tomar decisiones informadas y estratégicas en sus inversiones.
 
-![si](src/img/cap1/solutionp.png "hola") 
+![Recurso extraído de Canva](src/img/cap1/solutionp.png) 
 
 ### Antecedentes y problemática
 
-\begin{awesomeblock}[blue]{2pt}{\faQuestionCircle}{blue}
+::: info
 ***What***
 
 * El proceso tradicional de due diligence se caracteriza por ser laborioso, costoso y propenso a errores.
 * Los inversores y profesionales financieros revisan una gran cantidad de documentos financieros, legales y operativos en un tiempo limitado.
 * Esto puede resultar en la contratación de servicios adicionales y gastos innecesarios.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[blue]{2pt}{\faUserCircle}{blue}
+::: info
 ***Who***
 
 * Inversores y profesionales financieros se ven afectados por la complejidad y la carga de trabajo del proceso tradicional de due diligence.
 * Propietarios de empresas enfrentan el desafío de compartir información confidencial con inversores potenciales.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[blue]{2pt}{\faSearchLocation}{blue}
+::: info
 ***Where***
 
 Esta problemática es común en transacciones comerciales y de inversión, donde la debida diligencia es crucial.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[blue]{2pt}{\faCalendar*}{blue}
+::: info
 ***When***
 
 La problemática surge en cada proceso de adquisición o inversión, donde la toma de decisiones debe realizarse en un tiempo limitado.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[blue]{2pt}{\faRocketchat}{blue}
+::: info
 ***Why***
 
 * La falta de acceso rápido y la preocupación por la seguridad de la información sensible de la empresa dificultan la toma de decisiones.
 * Existe el riesgo de que los inversores utilicen los datos sensibles con otros fines, lo que genera incertidumbre y desconfianza.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[pink]{2pt}{\faMedapps}{pink}
+::: attn
 ***How***
 
 * Para abordar estos desafíos, nuestra solución se basa en el desarrollo de una *web application*.
@@ -156,111 +175,237 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 * Diseñaremos una interfaz intuitiva que permita a los usuarios acceder y revisar información de manera rápida y segura.
 * Incorporaremos un sistema de cifrado de datos de extremo a extremo para garantizar la seguridad y confidencialidad de la información.
 * Realizaremos pruebas exhaustivas y ajustes continuos para asegurar el funcionamiento óptimo de la plataforma en todo momento.
-\end{awesomeblock}
+:::
 
-\begin{awesomeblock}[pink]{2pt}{\faMoneyBillWave}{pink}
+::: attn
 ***How Much***
 
 * Los costos asociados con la implementación de nuestra solución de Diligence Tech dependerán del tamaño y las necesidades específicas de cada empresa.
 * Ofreceremos planes de suscripción flexibles para adaptarse a diferentes presupuestos y volúmenes de trabajo.
 * Los costos se basarán en un modelo de suscripción mensual o anual, con opciones de escalabilidad según las demandas del usuario.
 * Adicionalmente, ofreceremos servicios de capacitación y soporte técnico para garantizar una adopción exitosa y continua de la plataforma.
-\end{awesomeblock}
+:::
+
+\newpage
 
 ### *Lean UX Process*
 
-Diligence Tech es nuestro producto insignia que utiliza algoritmos avanzados para agilizar el análisis de información financiera de empresas potencialmente adquiribles. Nuestra plataforma ofrece una interfaz intuitiva que permite a los inversores acceder y revisar datos financieros de empresas registradas de manera rápida y segura, gracias al cifrado de datos de extremo a extremo.
-El objetivo de Diligence Tech es revolucionar la forma en que se lleva a cabo la debida diligencia, ofreciendo una solución integral y fácil de usar que mejora significativamente la eficiencia del proceso. En un mundo donde la velocidad y la precisión son críticas, nuestra plataforma permite a los clientes tomar decisiones informadas y estratégicas durante sus transacciones comerciales.
-Al incorporar la tecnología más avanzada, nos esforzamos por brindar a nuestros usuarios la capacidad de realizar análisis detallados y exhaustivos en un tiempo récord. En Diligence Tech, estamos construyendo un camino hacia una debida diligencia más ágil, segura y confiable, donde cada interacción con los datos financieros sea una experiencia sin complicaciones y productiva.
-
-![DiligenceTech Logo](src/img/Logo/DiligenceTechLogo.png "DiligenceTech Logo")
+![Recurso extraído de Canva](src/img/cap1/leanux.png)
 
 #### *Lean UX Problem Statements*
 
-Nuestro contexto demanda una forma efectiva en la que:
+::: note
+***Problem Statement 1***
 
-- Los contadores obtengan eficiencia al momento de realizar sus operaciones comerciales.
-- Los contadores e inversionistas pueden acceder a información financiera relevante de empresas objetivo.
-- Los contadores puedan obtener seguridad de sus datos al momento de realizar el proceso de due diligence.
+* Nuestro contexto se enfoca en mejorar la eficiencia y precisión del análisis financiero para los contadores financieros durante el proceso de due diligence.
+
+* Hemos identificado un problema crítico que afecta a los contadores financieros al realizar el análisis exhaustivo de los documentos financieros de las empresas. Actualmente, los contadores enfrentan dificultades significativas al obtener de manera oportuna y eficiente los documentos necesarios para llevar a cabo una diligencia debida completa. Esta falta de acceso rápido y efectivo a la información financiera puede resultar en retrasos en el proceso de análisis y en la toma de decisiones, impactando negativamente la eficiencia y precisión del trabajo del contador.
+
+* ¿Cómo podemos mejorar el acceso y la obtención eficiente de los documentos financieros para los contadores durante el proceso de due diligence, con el fin de agilizar y mejorar la calidad de su trabajo?
+:::
+
+::: note
+***Problem Statement 2***
+
+* Nuestro enfoque se centra en proporcionar a los inversores una plataforma intuitiva y eficiente para la evaluación de oportunidades de inversión durante el proceso de due diligence.
+
+* Los inversores se enfrentan a la dificultad de realizar un análisis exhaustivo y preciso de la salud financiera y los riesgos potenciales de las empresas objetivo. Actualmente, experimentan desafíos al acceder y comparar de manera eficiente la información financiera de múltiples empresas, lo que puede llevar a decisiones de inversión subóptimas o basadas en datos incompletos.
+
+* ¿Cómo podemos proporcionar a los inversores una plataforma intuitiva y eficiente que les permita acceder, comparar y analizar de manera efectiva la información financiera de las empresas, con el objetivo de facilitar la toma de decisiones informadas y estratégicas?
+:::
+
+\newpage
 
 #### *Lean UX Assumptions*
 
-**Business Assumptions:**
+***Business Assumptions:***
 
-1. Creo que mis clientes necesitan una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de due diligence. 
-2. Estas necesidades se pueden resolver con nuestra plataforma inteligente que automatice el análisis financiero y que ofrezca acceso rápido y seguro a información relevante de las empresas objetivo.
-3. Mis clientes iniciales son inversores y contadores financieros que trabajan en sell-side.
-4. El valor #1 que un cliente quiere de mi servicio es una manera eficiente y precisa de realizar sus transacciones durante el proceso de due diligence. 
-5. El cliente también puede obtener estos beneficios adicionales como una mayor confianza en el proceso de due diligence, una mayor seguridad de los datos financieros y una experiencia de usuario mejorada.
-6. Voy a adquirir la mayoría de mis clientes a través de campañas de marketing dirigidas a empresas de capital privado, fondos de inversión y otros actores clave en el mercado de transacciones
-7. Haré dinero a través de la venta de suscripciones a nuestra plataforma "Diligence Tech", ofreciendo diferentes niveles de acceso según las necesidades del cliente.
-8. Mi competencia principal en el mercado serán otras plataformas de due diligence en línea, así como servicios tradicionales de consultoría que ofrecen análisis de datos financieros.
-9. Los venceremos debido a nuestra capacidad para ofrecer una solución tecnológica más rápida, precisa y fácil de usar que nuestras competidoras, así como nuestro enfoque en la seguridad de los datos y la experiencia del usuario..
-10. El mayor riesgo del producto es que la tecnología pueda no funcionar como se espera, lo que podría resultar en errores en los datos o brechas de seguridad.
-11. Resolveremos esto a través de la implementación de rigurosas pruebas de calidad y seguridad, así como la rápida corrección de errores a medida que surjan.
-12. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione? 
-Otras suposiciones que tenemos son si:
+1. **Creo que mis clientes necesitan** una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de due diligence. 
 
+2. **Estas necesidades se pueden resolver con** nuestra plataforma inteligente que automatice el análisis financiero y que ofrezca acceso rápido y seguro a información relevante de las empresas objetivo.
+
+3. **Mis clientes iniciales son** inversores y contadores financieros que trabajan en sell-side.
+
+4. **El valor #1 que un cliente quiere de mi servicio es** una manera eficiente y precisa de realizar sus transacciones durante el proceso de due diligence. 
+
+5. **El cliente también puede obtener estos beneficios adicionales** como una mayor confianza en el proceso de due diligence, una mayor seguridad de los datos financieros y una experiencia de usuario mejorada.
+
+6. **Voy a adquirir la mayoría de mis clientes a través de** campañas de marketing dirigidas a empresas de capital privado, fondos de inversión y otros actores clave en el mercado de transacciones
+
+7. **Haré dinero a través de** la venta de suscripciones a nuestra plataforma "Diligence Tech", ofreciendo diferentes niveles de acceso según las necesidades del cliente.
+
+8. **Mi competencia principal en el mercado serán** otras plataformas de due diligence en línea, así como servicios tradicionales de consultoría que ofrecen análisis de datos financieros.
+
+9. **Los venceremos debido a** nuestra capacidad para ofrecer una solución tecnológica más rápida, precisa y fácil de usar que nuestras competidoras, así como nuestro enfoque en la seguridad de los datos y la experiencia del usuario..
+
+10. **El mayor riesgo del producto es** que la tecnología pueda no funcionar como se espera, lo que podría resultar en errores en los datos o brechas de seguridad.
+
+11. **Resolveremos esto a través de la** implementación de rigurosas pruebas de calidad y seguridad, así como la rápida corrección de errores a medida que surjan.
+
+12. **¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio/proyecto no funcione?** Otras suposiciones que tenemos son si:
     - Existe una demanda significativa.
     - La automatización de datos financieros mejorará el proceso de due diligence. 
     - Garantizar la seguridad y privacidad de los datos financieros de las empresas objetivo a través de cifrado de extremo a extremo generará confianza entre los usuarios
 
-Si estas suposiciones resultan ser falsas, nuestro producto no funcionará, pero podrá ser rediseñado.
-
-**Business Outcomes:**
+***Business Outcomes:***
 
 - Aumentar la eficiencia operativa de las empresas al reducir el tiempo y los recursos necesarios para completar el proceso de due diligence.
 - Proporcionar una plataforma segura, intuitiva y efectiva que aumente la satisfacción del cliente y promueva la retención a largo plazo.
 - Ganar una ventaja competitiva al ofrecer características avanzadas, seguridad de datos y facilidad de uso que superan a los competidores.
 
-**Users Assumptions:**
+\newpage
 
-¿Quién es el usuario?
+***Users Assumptions:***
 
-Los usuarios son los contadores financieros que buscan agilizar su proceso de due diligence e inversores que contratan empresas financieras que buscan una visualización más accesible de los resultados.
+***User Assumption - Problem Statement 1***
 
-¿Qué problemas tiene nuestro producto? ¿Resolver?
+1. **¿Quién es el usuario?**
 
-Dificultad para acceder y analizar rápidamente datos financieros de empresas objetivo durante el proceso de debida diligencia.
-Riesgos asociados con la falta de seguridad y privacidad de los datos financieros sensibles.
-Falta de eficiencia en el proceso de debida diligencia debido a la dependencia de métodos manuales y lentos.
+    Los usuarios son los contadores financieros que buscan agilizar su proceso de due diligence e inversores que contratan empresas financieras que buscan una visualización más accesible de los resultados.
 
+2. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
 
-¿Qué características son importantes? 
+    * Dificultad para acceder y analizar rápidamente datos financieros de empresas objetivo durante el proceso de debida diligencia.
+    * Riesgos asociados con la falta de seguridad y privacidad de los datos financieros sensibles.
+    * Falta de eficiencia en el proceso de debida diligencia debido a la dependencia de métodos manuales y lentos.
 
-Automatización del análisis de datos financieros.
-Seguridad de datos con cifrado de extremo a extremo.
-Interfaz de usuario intuitiva y fácil de usar.
-Acceso rápido y seguro a información financiera relevante.
-Funcionalidades avanzadas de visualización y generación de informes.
+3. **¿Qué características son importantes?**
 
-¿Dónde encaja nuestro producto en su trabajo o vida?
+    * Automatización del análisis de datos financieros.
+    * Seguridad de datos con cifrado de extremo a extremo.
+    * Interfaz de usuario intuitiva y fácil de usar.
+    * Acceso rápido y seguro a información financiera relevante.
+    * Funcionalidades avanzadas de visualización y generación de informes.
 
-Encaja en el proceso de trabajo de los usuarios al proporcionar una plataforma centralizada y eficiente para realizar análisis exhaustivos de datos financieros de empresas
+4. **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-¿Cuándo y cómo es usado nuestro producto?
+    Encaja en el proceso de trabajo de los usuarios al proporcionar una plataforma centralizada y eficiente para realizar análisis exhaustivos de datos financieros de empresas
 
-Es utilizado por los usuarios durante todo el proceso de debida diligencia, desde la evaluación inicial de una empresa objetivo hasta la finalización de la transacción comercial.
+5. **¿Cuándo y cómo es usado nuestro producto?**
 
-¿Cómo debe verse nuestro producto y cómo comportarse?
+    Es utilizado por los usuarios durante todo el proceso de debida diligencia, desde la evaluación inicial de una empresa objetivo hasta la finalización de la transacción comercial.
 
-Debe tener una apariencia profesional y moderna, con una interfaz de usuario limpia y organizada que facilite la navegación y el acceso a las herramientas y funciones clave. El producto debe comportarse de manera fluida y rápida, brindando respuestas instantáneas a las consultas de los usuarios y garantizando la seguridad y confiabilidad de los datos financieros manipulados.
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
 
-**User outcomes:**
+    Debe tener una apariencia profesional y moderna, con una interfaz de usuario limpia y organizada que facilite la navegación y el acceso a las herramientas y funciones clave. El producto debe comportarse de manera fluida y rápida, brindando respuestas instantáneas a las consultas de los usuarios y garantizando la seguridad y confiabilidad de los datos financieros manipulados.
+
+\newpage
+
+***User Assumption - Problem Statement 2***
+
+1. **¿Quién es el usuario?**
+
+    Los usuarios son inversores que buscan oportunidades de inversión y necesitan realizar una diligencia debida exhaustiva para evaluar la salud financiera y los riesgos potenciales de las empresas objetivo.
+
+2. **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+    * Dificultad para acceder y comparar de manera eficiente la información financiera de múltiples empresas durante el proceso de due diligence.
+    * Riesgos asociados con la toma de decisiones basadas en datos financieros incompletos o inexactos.
+    * Falta de una plataforma centralizada y fácil de usar para analizar y evaluar oportunidades de inversión de manera efectiva.
+
+3. **¿Qué características son importantes?**
+
+    * Interfaz de usuario intuitiva y eficiente que permita una navegación fluida y acceso rápido a la información financiera clave.
+    * Funcionalidades avanzadas de comparación y análisis de datos financieros para facilitar la toma de decisiones informadas.
+    * Seguridad de datos avanzada para garantizar la confidencialidad y protección de la información financiera sensible.
+    * Herramientas de visualización y generación de informes que permitan una comprensión clara y rápida de la salud financiera de las empresas objetivo.
+
+4. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+    Nuestro producto encaja en el proceso de trabajo de los inversores al proporcionar una plataforma centralizada y completa para evaluar y comparar oportunidades de inversión durante el proceso de due diligence.
+
+5. **¿Cuándo y cómo es usado nuestro producto?**
+
+    * Es utilizado por los inversores desde el inicio del proceso de evaluación de una empresa objetivo hasta la toma final de decisiones de inversión.
+    * Los inversores utilizan nuestro producto para analizar los estados financieros, realizar comparaciones entre empresas y evaluar los riesgos y oportunidades de inversión.
+
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+    * Nuestro producto debe tener una apariencia profesional y moderna, con una interfaz de usuario clara y organizada que facilite la comparación y análisis de datos.
+    * Debe comportarse de manera eficiente y rápida, brindando resultados precisos y actualizados de manera oportuna.
+    * La seguridad y confidencialidad de los datos financieros es fundamental, por lo que el producto debe garantizar un cifrado sólido y medidas de protección avanzadas.
+
+***User outcomes:***
 
 - Acceso de manera rápida y eficiente a la información financiera relevante de las empresas objetivo.
 - Confianza en la seguridad y privacidad de los datos financieros sensibles
 - Experiencia de usuario mejorada gracias a la interfaz intuitiva y fácil de usar
 
+\newpage
+
+***Feature Assumptions***
+
+**Para el Problem statement 1:**
+
+::: box 
+* **Herramientas Avanzadas de Analisis Financiero:**
+
+    Funciones especializadas para analizar estados financieros, ratios financieros, tendencias históricas y comparaciones sectoriales.
+
+* **Automatización de Procesos Repetitivos:**
+
+    Capacidad de automatizar tareas como la extracción de datos financieros, el cálculo de ratios y la generación de informes estándar.
+
+* **Integración con Fuentes de Datos Externos:**
+
+    Posibilidad de integrar datos de múltiples fuentes, como bases de datos financieras externas o sistemas de contabilidad.
+
+* **Seguridad y Confidencialidad Reforzadas:**
+
+    Funciones adicionales de seguridad, como permisos de acceso específicos, para garantizar la confidencialidad de la información financiera.
+
+* **Visualización de Datos Interactiva:**
+
+    Gráficos interactivos y tablas dinámicas para visualizar los datos financieros de manera clara y comprensible.
+:::
+
+\newpage
+
+**Para el Problem Statement 2:**
+
+::: box
+* **Interfaz de Usuario Intuitiva:**
+    - Los inversores podrán navegar fácilmente por la plataforma y acceder a las herramientas clave de análisis financiero.
+    - Se asume que una interfaz limpia y organizada facilitará la comparación y evaluación de empresas.
+
+* **Herramientas Avanzadas de Análisis:**
+    - Los inversores podrán utilizar herramientas avanzadas para comparar rápidamente los datos financieros de múltiples empresas.
+    - Se asume que características como gráficos interactivos, análisis comparativos y tablas dinámicas mejorarán la eficiencia del análisis.
+
+* **Funcionalidades de Seguridad Avanzada:**
+    - Los inversores confiarán en la plataforma debido a las medidas de seguridad avanzada, como cifrado de extremo a extremo y autenticación de dos factores.
+    - Se asume que la seguridad sólida garantizará la protección de los datos financieros confidenciales.
+
+* **Generación de Informes Personalizados:**
+    - Los inversores podrán crear informes personalizados basados en sus criterios de evaluación y preferencias.
+    - Se asume que los informes detallados y personalizados facilitarán la toma de decisiones informadas.
+
+* **Alertas y Notificaciones Relevantes:**
+    - Los inversores recibirán alertas sobre cambios significativos en los datos financieros de las empresas en su lista de seguimiento.
+    - Se asume que las alertas oportunas y relevantes mejorarán la capacidad de reacción a los cambios en las empresas objetivo.
+:::
+
+\newpage
+
 #### *Lean UX Hypothesis Statements*
 
-- Creemos que los profesionales involucrados en el proceso de due diligence valoran la eficiencia y la precisión en el análisis de datos financieros de empresas objetivo, por lo que adoptarán "Diligence Tech".
+***Hypothesis - Problem Statement 1***
 
-- Creemos que la seguridad y privacidad de los datos financieros sensibles es una preocupación clave para los usuarios durante el proceso de due diligence, por lo que la implementación de cifrado de extremo a extremo y otras medidas de seguridad en "Diligence Tech" aumentará la confianza y la adopción de la plataforma.
+::: tip
+* **Creemos que** los contadores financieros valoran la eficiencia y precisión en el análisis de datos financieros durante el proceso de due diligence. **Sabremos que** esto es cierto **cuando** observemos una disminución significativa en el tiempo dedicado al análisis manual de datos, medido por una reducción del 30% en el tiempo promedio necesario para completar una diligencia debida.
 
-- Creemos que la interfaz de usuario intuitiva y fácil de usar es fundamental para la satisfacción del usuario y la adopción de la plataforma, por lo que la mejora continua de la usabilidad de "Diligence Tech" conducirá a una mayor retención de clientes.
+* **Creemos que** la seguridad y privacidad de los datos financieros sensibles es una preocupación clave para los contadores financieros durante el proceso de due diligence. **Sabremos que** esto es cierto **cuando** veamos una mayor confianza en la plataforma "DiligenceTech" por parte de los contadores, medido por una reducción del 20% en las solicitudes de soporte relacionadas con la seguridad de los datos.
+:::
 
-- Creemos que la automatización del análisis de datos financieros a través de algoritmos avanzados mejorará la eficiencia del proceso de due diligence, por lo que los usuarios adoptarán "Diligence Tech" el cual brinda una solución tecnológica que automatice tareas manuales y reduzca el tiempo necesario para completar estas.
+***Hypothesis - Problem Statement 2***
+
+::: tip
+* **Creemos que** los inversores valoran la facilidad y rapidez de acceso a información financiera relevante durante el proceso de due diligence. **Sabremos que** esto es cierto **cuando** observemos un aumento en la eficiencia y precisión en la toma de decisiones de inversión, medida a través de una reducción del tiempo dedicado a la investigación y una mayor satisfacción del usuario.
+
+* **Creemos que** la seguridad y privacidad de los datos financieros sensibles es una preocupación clave para los inversores durante el proceso de due diligence. **Sabremos que** esto es cierto **cuando** veamos un aumento en la confianza de los inversores en la plataforma, medido por una mayor adopción de "DeltaTech" y retroalimentación positiva sobre las medidas de seguridad implementadas.
+:::
+
+\newpage
 
 #### *Lean UX Canvas*
 
