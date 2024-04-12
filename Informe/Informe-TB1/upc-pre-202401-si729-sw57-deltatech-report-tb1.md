@@ -471,6 +471,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### *As-is Scenario Mapping*
 
+El As-Is Scenario Mapping es una herramienta para identificar los pensamientos que tendrán los usuarios a la hora de utilizar la aplicación actual.
+
 ![As-Is Scenario Map Contador F.](src\img\cap2\AsIsSM_Cont.png "As-Is Scenario Map Contador F.")
 
 ![As-Is Scenario Map Inversionista](src\img\cap2\AsIsSM_Inv.png "As-Is Scenario Map Inversionista")
@@ -481,14 +483,18 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Capítulo III: *Requirements Specification*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Dentro de este capítulo, identificaremos los requerimientos necesarios para que los usuarios puedan utilizar nuestra aplicación de manera efectiva y satisfactoria. 
 
 ## *To-Be Scenario Mapping*
+
+El To-Be Scenario Mapping es una herramienta para identificar cómo se sentirán los usuarios con los nuevos cambios que deberían haber solucionado los problemas planteados en los As-Is scenario maps.
 
 ![To Be Scenario Map](src\img\cap3\ToBeSM.png "To Be Scenario Map")
 
 ## *User Stories*
 
+
+#### *Epics*
 EP01 (Gestión de Cuentas de Usuario): Como usuario, quiero registrarme, iniciar sesión y mantener control sobre mi cuenta para acceder de manera segura a la aplicación y gestionar mis datos personales.	
 
 |  |  |
@@ -560,6 +566,7 @@ EP06 (Landing Page Optimizada): Como usuario interesado, deseo una landing page 
 | US40 | Call-to-action   claro |
 | US41 | Optimización   para SEO |
 
+#### *User stories*
 
 |     Epic / Story ID     |     Título     |     Descripción     |     Criterios de Aceptación     |     Relacionado con (Epic ID)    |
 |---|---|---|---|---|
@@ -607,6 +614,8 @@ EP06 (Landing Page Optimizada): Como usuario interesado, deseo una landing page 
 
 ## *Impact Mapping*
 
+El impact map es una herramienta que se utiliza para reconocer que características de la aplicación se pueden utilizar o mejorar para cumplir con un objetivo establecido por la empresa. 
+
 
 ![Impact Map 1](src\img\cap3\ImpactMap.png "Impact Map 1")
 
@@ -614,6 +623,10 @@ EP06 (Landing Page Optimizada): Como usuario interesado, deseo una landing page 
 ![Impact Map 2](src\img\cap3\ImpactMap2.png "Impact Map 12")
 
 ## *Product Backlog*
+
+El Product Backlog se utiliza para ordenar y dar valor a cada user story según su prioridad en el momento de la creación e implementación de los requerimientos planteados. 
+
+A estos se les asigna Story Points, que sirven para dar a conocer la dificultad de implementación de cada requerimiento.
 
 |     #Orden    |     User Story id    |     Titulo    |     Descripción    |     Story points     (1 / 2 / 3 / 5 / 8)    |
 |---|---|---|---|---|
