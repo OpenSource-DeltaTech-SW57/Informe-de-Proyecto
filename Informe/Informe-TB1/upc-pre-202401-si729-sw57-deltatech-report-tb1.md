@@ -423,15 +423,137 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ## Competidores
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+1. **Datasite Diligence:** El virtual data room más utilizado en el mercado. Proporcionada por la empresa Datasite, esta solución mediante aplicación web brinda un espacio de almacenamiento y edición de archivos, los cuales se esperan que sean documentos financieros para posteriormente ser enviados por correo electrónico a quien sea desee el usuario. Entre las mecánicas más resaltantes en este competidor está la posibilidad de censura mediante IA elementos de los documentos y la modalidad Q&A. Su precio es a base de páginas que contengan los archivos, aproximadamente cuesta mil dolares anualmente.
+
+    ![Datasite Diligence](src/img/cap2/DatasiteDiligence.svg)
+
+    Segmentos Objetivos:
+
+    * Agente Sell-Side (contadores financieros) de una empresa en busca de una herramienta ordenada para el proceso de Due Diligence.
+
+    * Agente Buy-Side (asociados de auditoria) de una empresa que desea visualizar el proceso de Due Diligence de una forma asequible.
+
+2. **iDeals:** Virtual data room online para servicios financieros, Biotech, IT y otras especializaciones del sistema que utilizan organizaciones de muchos usuarios dentro de la aplicación, la simplificación del ingreso y uso de archivos, y la seguridad del sistema en cuidarlos. Cuenta actualmente con más de 1 millón de usuarios y destaca en el mercado por su atención al cliente rápida y constante.
+
+    ![iDeals](src/img/cap2/iDeals.svg)
+
+    Segmentos Objetivos:
+
+    * Agente Sell-Side (contadores financieros) de una empresa en busca de una herramienta ordenada para el proceso de Due Diligence.
+
+    * Agente Buy-Side (asociados de auditoria) de una empresa que desea visualizar el proceso de Due Diligence de una forma asequible.
+
+3. **Firmex:** Virtual data room para contadores financieros que permite insertar y guardar archivos al sistema con funcionalidades como Q&A y censura. Reconocido en el mercado por la seguridad que mantiene en los archivos.
+
+    ![Firmex](src/img/cap2/Firmex.svg)
+
+    Segmentos Objetivos:
+
+    * Agente Sell-Side (contadores financieros) de una empresa en busca de una herramienta ordenada para el proceso de Due Diligence.
+
+    * Agente Buy-Side (asociados de auditoria) de una empresa que desea visualizar el proceso de Due Diligence de una forma asequible.
 
 ### Análisis competitivo
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+xd
 
 ## Estrategias y tácticas frente a competidores
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Según Michael Porter, la estrategia competitiva implica cómo una empresa compite en su mercado específico. Porter identificó tres estrategias generales que las empresas pueden emplear para competir con éxito: liderazgo en costos, diferenciación y enfoque. La estrategia de liderazgo en costos implica ofrecer productos o servicios a precios más bajos que los de los competidores, mientras que la diferenciación se basa en ofrecer productos y servicios únicos y distintivos. Por otro lado, una estrategia de enfoque se centra en un segmento de mercado específico. Para llevar a cabo eficazmente estas estrategias, las empresas necesitan tener un profundo conocimiento de sus mercados y competidores para desarrollar y mantener una ventaja competitiva sostenible a largo plazo.
+
+Teniendo en cuenta el análisis FODA previamente presentado para DiligenceTech, proponemos las siguientes estrategias competitivas:
+
+**Estrategias Competitivas para DiligenceTech:**
+
+1. Liderazgo en Costos:
+
+    Estrategia:
+
+    DiligenceTech puede buscar optimizar sus procesos internos para reducir costos operativos y ofrecer sus servicios a precios más competitivos que los de sus competidores.
+
+    Tácticas:
+
+    - Implementar tecnologías eficientes que reduzcan los gastos de infraestructura y operativos.
+
+    - Negociar acuerdos favorables con proveedores y socios para obtener mejores precios en servicios y herramientas necesarios.
+
+    - Ofrecer modelos de precios flexibles y descuentos por volumen para atraer a clientes sensibles al costo.
+
+2) Diferenciación a través de la Innovación:
+
+    Estrategia:
+    
+    DiligenceTech puede enfocarse en desarrollar características y funcionalidades únicas que destaquen su plataforma como líder en innovación en la debida diligencia.
+
+    Tácticas:
+
+    - Realizar investigaciones de mercado para identificar necesidades no cubiertas y oportunidades de mejora.
+
+    - Invertir en I+D para desarrollar herramientas avanzadas de análisis financiero y presentación de informes.
+
+    - Promocionar activamente las nuevas características a través de campañas de marketing destacando la vanguardia tecnológica de DiligenceTech.
+
+3) Enfoque en Segmentos Específicos del Mercado:
+
+    Estrategia:
+    
+    DiligenceTech puede especializarse en atender a segmentos específicos del mercado donde pueda ofrecer un valor diferenciado y adaptado.
+
+    Tácticas:
+
+    - Identificar sectores de la industria con necesidades únicas de debida diligencia, como startups en crecimiento, empresas de tecnología emergente, o industrias reguladas.
+
+    - Desarrollar soluciones personalizadas y paquetes de servicios adaptados a las necesidades específicas de cada segmento.
+
+    - Colaborar con asociaciones y grupos de la industria para fortalecer la presencia en estos segmentos y generar confianza.
+
+**Tácticas Específicas para DiligenceTech:**
+1) Monitoreo Competitivo Continuo:
+
+    Táctica:
+
+    Realizar análisis periódicos de las estrategias, precios y ofertas de la competencia para identificar oportunidades y amenazas.
+
+    Acciones:
+
+    - Mantenerse al tanto de los movimientos de los competidores en cuanto a lanzamientos de productos, cambios de precios y campañas de marketing.
+
+    - Utilizar herramientas de seguimiento de competidores y análisis de mercado para obtener información valiosa.
+
+2) Estrategias de Precios y Paquetes Competitivos:
+    Táctica:
+    
+    Ajustar estratégicamente los precios y paquetes de servicios para competir de manera efectiva en el mercado.
+
+    Acciones:
+
+    - Realizar análisis de precios comparativos y ajustar los precios de acuerdo con el valor percibido por los clientes.
+
+    - Ofrecer paquetes personalizados que se ajusten a las necesidades específicas de diferentes tipos de clientes, como empresas grandes, medianas y startups.
+
+3) Inversión en Marketing Diferenciado:
+
+    Táctica:
+    
+    Desarrollar mensajes y campañas de marketing que resalten las fortalezas únicas y la propuesta de valor de DiligenceTech.
+
+    Acciones:
+
+    - Crear contenido educativo y de valor que demuestre cómo DiligenceTech aborda los desafíos específicos de la debida diligencia.
+
+    - Utilizar estudios de casos y testimonios de clientes para respaldar los beneficios y resultados de la plataforma.
+
+4) Alianzas Estratégicas y Colaboraciones:
+
+    Táctica:
+    
+    Establecer asociaciones estratégicas con empresas complementarias o instituciones que puedan ampliar el alcance y la oferta de DiligenceTech.
+
+    Acciones:
+
+    - Colaborar con firmas de consultoría reconocidas para ofrecer servicios combinados de asesoramiento y tecnología.
+
+    - Formar alianzas con organizaciones financieras o legales para ofrecer paquetes completos de servicios de debida diligencia.
 
 ## Entrevistas
 
@@ -443,7 +565,28 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Registro de entrevistas
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Nombre
+
+Gisella Diaz
+
+Edad
+
+51 años
+
+Ubicación Geográfica
+
+Lima, Perú
+
+Status Social:
+
+Clase Media
+
+Profesión
+
+Contadora Pública Colegiada (por 25 años)
+
+Link Entrevista
+
 
 ### Análisis de entrevistas
 
