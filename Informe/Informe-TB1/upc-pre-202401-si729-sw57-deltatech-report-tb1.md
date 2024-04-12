@@ -565,28 +565,42 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### Registro de entrevistas
 
-Nombre
+**Segmento 1: Contadores financieros trabajando en sell-side en empresas financieras con la necesidad de agilizar el proceso de análisis de debida diligencia**
 
-Gisella Diaz
+1. Guisella Bravo
 
-Edad
+| Nombre               | Guisella Bravo                                                                     |
+|----------------------|------------------------------------------------------------------------------------|
+| Edad                 | 51 años                                                                            |
+| Ubicación Geográfica | Lima, Perú                                                                         |
+| Profesión            | Contadora pública colegiada (por más de 25 años)                                   |
+| Link Entrevista      | https://drive.google.com/file/d/1olTTIzwfcLowupWzGqNCtpvncZuFWxy-/view?usp=sharing |
 
-51 años
+    Resumen Entrevista: Guisella Bravo es contadora pública colegiada, esto quiere decir que trabaja en ámbitos financieros usualmente de una empresa, y lleva ejerciendo esta profesión por más de 25 años. Tiene experiencia con Due Diligence como participante Sell-side y Buy-side en su antiguo trabajo, y ha utilizado Dropbox y Excel como herramientas virtuales para rendir esta labor. Su conocimiento tecnológico se limita a la utilización de estas herramientas como otras empresariales como el correo electrónico. En su opinión, la propuesta de solución que hemos planteado es “muy buena” porque las alternativas comúnmente utilizadas en el Perú no se especializan en la interacción entre la empresa compradora y vendedora. En cuanto a como se hace un Due Diligence mencionó que se divide en 3 etapas: Entrega de Requerimientos de la Información, Due Diligence y el Informe Final. Los actores son en la primera etapa el agente de la empresa compradora que lo envía al agente de la empresa vendedora, Due Diligence es el proceso de entregar documentos confidenciales solicitados (.pdf y .xlsx por mayoría) a la empresa compradora mediante la separación general de estas en áreas de especialidad específicas como el área financiera, laboral, legal y tributario, que son las más comunes, y una separación particular en Ítems de Información, los cuales son una descripción completa de los documentos deseados. Esta etapa tiene como proceso intermedio el sistema de Q&A (Preguntas y Respuestas) donde, conforme se van entregando los documentos, la empresa compradora tiene la oportunidad de ordenar explicaciones a la empresa vendedora de lo que se entrega, y lo hace el agente de la empresa vendedora. Due Diligence termina si ambas partes confirman que cada ítem está completo. Finalmente, la empresa compradora hace un informe final con los datos entregados de la empresa vendedora. En cuanto a funcionalidades, piensa que el hecho de evitar la descarga de los archivos es innecesario, porque el punto de Due Diligence es entregar información confidencial a otra empresa, y opina lo mismo de la funcionalidad de censura en los documentos. Le parece que un análisis financiero hecho dentro del sistema puede ser novedoso y útil, especialmente porque son demasiados documentos. Finalmente, menciona que la herramienta de obtener información de la internet es muy útil y sería de demasiada ayuda en la recolección de documentos. En cuanto a opiniones de Due Diligence de carácter emocional, ella cree que no existe parte tediosa del proceso, porque demora aproximadamente un mes a un mes y medio. Adicionalmente, le interesa mucho la seguridad de estos documentos (que no se le envíe a una persona equivocada) y que existan herramientas hechas específicamente para el entorno, le gusta la eficiencia. Para concluir, también menciona que en cuanto a problemas en Due Diligence es importante resaltar que elegir a una empresa con intenciones maliciosas para entregar los documentos es un error que le ha pasado y provocó la creación de un competidor de su empresa. Lo cual es más un problema de la misma empresa que seleccionó a quien entregarle la información. No obstante, nos da un buen argumento en contra de nuestra posible funcionalidad de que se presente una red social que funcione como website previo a realizar un Due Diligence, donde un inversor encuentra a una empresa acreditada y publicada en nuestra plataforma para posteriormente iniciar un Due Diligence en nuestra aplicación de Due Diligence si ambas partes están de acuerdo en inicializarla.
 
-Ubicación Geográfica
+2. James De La Torre Ugarte
 
-Lima, Perú
+| Nombre               | James De La Torre Ugarte                                                              |
+|----------------------|---------------------------------------------------------------------------------------|
+| Edad                 | 55 años                                                                               |
+| Ubicación Geográfica | Lima, Perú                                                                            |
+| Profesión            | Contador público (por más de 37 años)                                                 |
+| Link Entrevista      | https://drive.google.com/file/d/1pVBgF5Mg19oACeViPekwY-lZtho5sloD/view?usp=drive_link |
 
-Status Social:
+    Resumen Entrevista: James De La Torre Ugarte, un respetado contador público con una sólida trayectoria en due diligence opina de manera favorable a nuestro diseño que consistirá en una plataforma innovadora en la nube. Esta plataforma estaría diseñada específicamente para recibir documentos empresariales relevantes, como estados financieros y otros documentos relacionados, con el objetivo de facilitar el proceso de evaluación de empresas.  La propuesta sugiere que esta plataforma no solo sirva como un repositorio seguro para los documentos financieros, sino que también permita la aplicación de diversos ratios financieros los cuales van a ser de ayuda para poder determinar si es rentable o beneficioso a largo plazo para el inversionista. Esto proporciona a James la capacidad de realizar análisis detallados y personalizados de la salud financiera de las empresas en consideración, lo cual es fundamental en su rol de due diligence.  Considerando la sensibilidad y la importancia de la información financiera en el proceso de evaluación empresarial, se enfatiza la necesidad de que esta plataforma garantice altos estándares de seguridad. James comprende plenamente la importancia de proteger la confidencialidad y la integridad de los datos financieros de las empresas, por lo que sería fundamental que la plataforma implemente medidas de seguridad robustas y cumpla con las regulaciones pertinentes.  Además, se destaca la relevancia de que esta plataforma sea intuitiva y fácil de usar, especialmente considerando la diversidad de usuarios que podrían interactuar con ella. Dado el enfoque meticuloso y analítico que caracteriza el trabajo de James, la plataforma debería ofrecer una interfaz fluida que facilite la navegación y la extracción de datos necesarios para sus evaluaciones además del uso de métricas para la evaluación de los datos como (ROE, RAE, ROI, indices de liquidez de solvencia , ratios de liquidez , ratios de solvencia).
 
-Clase Media
+3. Patricia González
 
-Profesión
+| Nombre               | Patricia González                                                                  |
+|----------------------|------------------------------------------------------------------------------------|
+| Edad                 | 58 años                                                                            |
+| Ubicación Geográfica | Lima, Perú / Trujillo, Perú                                                        |
+| Profesión            | Contadora pública colegiada (por más de 27 años)                                   |
+| Link Entrevista      | https://drive.google.com/file/d/1gDNFYf4BYT09A8H1RkDDuDOOCKjXwre1/view?usp=sharing |
 
-Contadora Pública Colegiada (por 25 años)
+    Resumen Entrevista: Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de Due Diligence como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de Due Diligence se divide en 3 etapas: Obtención de Información de Requerimientos, Due Diligence e Informe Final. El Due Diligence son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de Due Diligence no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Cree que el análisis financiero puede ser apoyado por la misma solución y ayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas.
 
-Link Entrevista
-
+**Segmento 2: Inversores que contratan empresas financieras para servicios sell-side que buscan una visualización más accesible de los resultados**
 
 ### Análisis de entrevistas
 
