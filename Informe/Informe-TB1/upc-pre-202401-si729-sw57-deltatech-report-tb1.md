@@ -487,6 +487,77 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## *User Stories*
 
+EP01 (Gestión de Cuentas de Usuario): Como usuario, quiero registrarme, iniciar sesión y mantener control sobre mi cuenta para acceder de manera segura a la aplicación y gestionar mis datos personales.	
+
+|  |  |
+|---|---|
+| US01 | Registro de   inversor  |
+| US02 | Confirmación   de creación de cuenta |
+| US03 | Verificación   de cuenta  |
+| US04 | Registro   de empresa |
+| US05 | Verificación   de cuenta empresa |
+| US06 | Recuperación   de cuenta  |
+
+EP02 (Gestión de Empresas y Solicitudes): Como usuario, quiero poder gestionar empresas y solicitudes, desde su registro hasta su cierre, para realizar procesos de due diligence de manera efectiva y eficiente.	
+
+|  |  |
+|---|---|
+| US07 | Visualización   de empresas |
+| US08 | Filtro   de empresas |
+| US09 | Ordenamiento   de empresas |
+| US10 | Interfaz   de búsqueda sencilla |
+| US11 | Visualización   de solicitudes |
+| US12 | Filtro   de solicitudes |
+| US13 | Ordenamiento   de solicitudes |
+| US14 | Admición   de solicitudes |
+| US15 | Creación   de la solicitud |
+| US16 | Consulta   de orden de solicitud |
+| US17 | Actualizaciones   sobre la solicitud |
+| US18 | Respuesta   de solicitud |
+| US19 | Razón   de la respuesta otorgada |
+| US20 | Creación   de queja |
+| US22 | Cierre   de solicitud |
+
+EP03 (Seguridad y Confidencialidad): Como usuario, quiero que mis datos y la información de las empresas sean seguros y confidenciales, evitando fugas de seguridad y limitando el acceso no autorizado, para proteger la integridad de la información.	
+
+|  |  |
+|---|---|
+| US23 | Seguridad de   entrega |
+| US24 | Limitación   al entregar datos |
+| US25 | Alertas   de fugas de seguridad |
+
+EP04 (Análisis Financiero): Como usuario, quiero realizar análisis financieros con los datos recibidos para evaluar adecuadamente las empresas y tomar decisiones informadas sobre mis inversiones.	
+
+|  |  |
+|---|---|
+| US26 | Visualización   de análisis financieros disponibles |
+| US27 | Eficacia   de los algoritmos de análisis financiero |
+| US28 | conclusión   del análisis financiero |
+| US21 | Visualización   de datos recibidos |
+
+EP05 (Optimización de la API): Como desarrollador, quiero implementar funcionalidades de paginación y filtrado en los endpoints de la API para mejorar la eficiencia en la entrega de recursos y optimizar el rendimiento del sistema.	
+
+|  |  |
+|---|---|
+| US29 | RESTful API   Registro de usuario |
+| US30 | RESTful   API Inicio de sesión de usuario |
+| US31 | Autenticación   basada en token JWT |
+| US32 | Recuperación   de contraseña |
+| US33 | CRUD   para recursos principales |
+| US34 | Paginación   y filtrado de resultados |
+
+EP06 (Landing Page Optimizada): Como usuario interesado, deseo una landing page intuitiva y optimizada que proporcione información clara y accesible sobre la aplicación, para facilitar la toma de decisiones informadas y la interacción con el equipo de la aplicación.	
+
+|  |  |
+|---|---|
+| US35 | Descubrimiento   intuitivo |
+| US36 | Contenido   informativo |
+| US37 | Compatibilidad   móvil |
+| US38 | Formulario   de contacto |
+| US39 | Contenido   multimedia |
+| US40 | Call-to-action   claro |
+| US41 | Optimización   para SEO |
+
 
 |     Epic / Story ID     |     Título     |     Descripción     |     Criterios de Aceptación     |     Relacionado con (Epic ID)    |
 |---|---|---|---|---|
