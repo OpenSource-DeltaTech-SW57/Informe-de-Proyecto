@@ -471,7 +471,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### *As-is Scenario Mapping*
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![As-Is Scenario Map Contador F.](src\img\cap2\AsIsSM_Cont.png "As-Is Scenario Map Contador F.")
+
+![As-Is Scenario Map Inversionista](src\img\cap2\AsIsSM_Inv.png "As-Is Scenario Map Inversionista")
 
 ## *Ubiquitous Language*
 
@@ -606,6 +608,10 @@ EP06 (Landing Page Optimizada): Como usuario interesado, deseo una landing page 
 ## *Impact Mapping*
 
 
+![Impact Map 1](src\img\cap3\ImpactMap.png "Impact Map 1")
+
+
+![Impact Map 2](src\img\cap3\ImpactMap2.png "Impact Map 12")
 
 ## *Product Backlog*
 
